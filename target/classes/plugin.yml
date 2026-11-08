@@ -1,6 +1,0 @@
-name: Carry
-version: '1.0'
-
-main: me.simonevtw.carry.Main
-api-version: '1.21.8'
-load: POSTWORLD
