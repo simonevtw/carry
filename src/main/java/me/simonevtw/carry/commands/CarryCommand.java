@@ -31,7 +31,7 @@ public class CarryCommand {
                                 return 0;
                             }
 
-                            if (target == player) {
+                            if (target.equals(player)) {
                                 player.sendRichMessage("<red>Non puoi usare il carry su tè stesso");
                                 return 0;
                             }
